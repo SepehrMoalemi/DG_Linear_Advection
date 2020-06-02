@@ -50,7 +50,6 @@ using namespace Eigen;
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 int main()
 {
-#pragma region Variable initialization
 	//Calling Numerical Solver
 	N = 4;
 	K = 8;
