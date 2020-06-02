@@ -1,7 +1,7 @@
 # DG_Linear_Advection
 
 Usage:
-The Main Program is : "LinearAdvection_MAIN.cpp:", under "StarUp1D"
+The Main Program is : "LinearAdvection_MAIN.cpp", under "StarUp1D"
 
 This porgram uses the Eigen library which needs to be included in the path 
 
